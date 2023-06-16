@@ -4,12 +4,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on nada 
-- 🌱 I’m currently learning a utilizar o github
-- 👯 I’m looking to collaborate on nada no momento
+- 🔭 I’m currently working on nothing
+- 🌱 I’m currently learning Javascript
+- 👯 I’m looking to collaborate on nothing
 - 🤔 I’m looking for help with profissionais da área
 - 💬 Ask me about tecnologia, games, etc
-- 📫 How to reach me: não utilizo redes sociais, então provavelmente se a gente se encontrar na rua
+- 📫 How to reach me: instagram: kaua_st31
 - 😄 Pronouns: poggers e froggers
 - ⚡ Fun fact: não sei o que colocar aqui
 -
